@@ -1,5 +1,4 @@
 # 🦋 Endangered Species Retriever
-a-friendly-and-colorful-vector-style-illustration-showing-various-endangered-animals-include-a-beng-855298935.jpeg
 
 Welcome to the Endangered Species Retriever notebook! 🌍
 In this notebook, we focus on building a retriever using the Haystack framework, leveraging a dataset containing crucial information about various endangered species. You can get the dataset from kaggle: https://www.kaggle.com/datasets/jvanark/endangered-species
